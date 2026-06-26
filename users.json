@@ -1,0 +1,14 @@
+{
+    "allowed_admins": [
+        "Artyom_Vekilyan",
+        "Admin_Name_2",
+        "Admin_Name_3"
+    ],
+    "banned_users": [
+        "BadPlayer_1",
+        "Cheater_Nick"
+    ],
+    "script_admins": [
+        "Artyom_Vekilyan"
+    ]
+}
