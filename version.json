@@ -1,5 +1,5 @@
 {
     "current_version": "1.0.0",
-    "update_url": "https://github.com/YOUR_USERNAME/vql-rrp-tools/releases/latest",
+    "update_url": "https://github.com/artyomveqilyan30-sudo/vql_rrp_tools/releases/latest",
     "changelog": "v1.0.0 — первый публичный релиз VQL RRP TOOLS.\n- Admin Helper: репорты, наказания, мероприятия\n- GOS Helper: МВД, МО, МЗ, Правительство\n- Apanel: управление доступом через GitHub\n- Система уведомлений\n- Тёмный UI в стиле VQL"
 }
