@@ -1,14 +1,5 @@
 {
-    "allowed_admins": [
-        "Severus_Snape",
-        "Admin_Name_2",
-        "Admin_Name_3"
-    ],
-    "banned_users": [
-        "BadPlayer_1",
-        "Cheater_Nick"
-    ],
-    "script_admins": [
-        "Severus_Snape"
-    ]
-}
+  "allowed_admins":["Severus_Snape","Admin_Name_3"],
+  "banned_users":["BadPlayer_1","Cheater_Nick"],
+  "script_admins":["Severus_Snape"]
+}ÓM4
